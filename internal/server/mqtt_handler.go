@@ -23,7 +23,7 @@ import (
 	"github.com/DrmagicE/gmqtt/pkg/packets"
 	"github.com/DrmagicE/gmqtt/server"
 
-	"github.com/iotserver-org/iotserver-mqtt-driver/constants"
+	"github.com/LMgateways/iotserver-mqtt-driver/constants"
 )
 
 // OnAccept TCP连接建立时调用

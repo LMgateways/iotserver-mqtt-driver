@@ -24,10 +24,10 @@ import (
 
 	"github.com/winc-link/hummingbird-sdk-go/service"
 
-	"github.com/iotserver-org/iotserver-mqtt-driver/constants"
-	"github.com/iotserver-org/iotserver-mqtt-driver/internal/topic"
+	"github.com/LMgateways/iotserver-mqtt-driver/constants"
+	"github.com/LMgateways/iotserver-mqtt-driver/internal/topic"
 
-	drivercfg "github.com/iotserver-org/iotserver-mqtt-driver/config"
+	drivercfg "github.com/LMgateways/iotserver-mqtt-driver/config"
 )
 
 var driverService *service.DriverService

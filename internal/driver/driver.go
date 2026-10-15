@@ -26,10 +26,10 @@ import (
 	"github.com/winc-link/hummingbird-sdk-go/model"
 	"github.com/winc-link/hummingbird-sdk-go/service"
 
-	"github.com/iotserver-org/iotserver-mqtt-driver/config"
-	"github.com/iotserver-org/iotserver-mqtt-driver/internal/client"
-	"github.com/iotserver-org/iotserver-mqtt-driver/internal/server"
-	"github.com/iotserver-org/iotserver-mqtt-driver/internal/topic"
+	"github.com/LMgateways/iotserver-mqtt-driver/config"
+	"github.com/LMgateways/iotserver-mqtt-driver/internal/client"
+	"github.com/LMgateways/iotserver-mqtt-driver/internal/server"
+	"github.com/LMgateways/iotserver-mqtt-driver/internal/topic"
 )
 
 // MQTTProtocolDriver MQTT 协议驱动。

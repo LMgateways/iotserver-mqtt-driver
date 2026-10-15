@@ -1,4 +1,4 @@
-module github.com/iotserver-org/iotserver-mqtt-driver
+module github.com/LMgateways/iotserver-mqtt-driver
 
 go 1.18
 

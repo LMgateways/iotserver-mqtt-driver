@@ -15,8 +15,8 @@
 package main
 
 import (
-	"github.com/iotserver-org/iotserver-mqtt-driver/config"
-	"github.com/iotserver-org/iotserver-mqtt-driver/internal/driver"
+	"github.com/LMgateways/iotserver-mqtt-driver/config"
+	"github.com/LMgateways/iotserver-mqtt-driver/internal/driver"
 	"github.com/winc-link/hummingbird-sdk-go/commons"
 	"github.com/winc-link/hummingbird-sdk-go/service"
 )

@@ -19,7 +19,7 @@ import (
 
 	"github.com/DrmagicE/gmqtt/config"
 
-	drivercfg "github.com/iotserver-org/iotserver-mqtt-driver/config"
+	drivercfg "github.com/LMgateways/iotserver-mqtt-driver/config"
 )
 
 // listeners 内嵌 broker 的监听地址。
