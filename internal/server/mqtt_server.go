@@ -20,7 +20,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/winc-link/hummingbird-sdk-go/service"
+	"github.com/LMgateways/iotserver-sdk-go/service"
 
 	"github.com/DrmagicE/gmqtt/config"
 	"github.com/DrmagicE/gmqtt/pkg/pidfile"

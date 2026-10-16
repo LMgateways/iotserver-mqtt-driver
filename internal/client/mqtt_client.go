@@ -22,7 +22,7 @@ import (
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 
-	"github.com/winc-link/hummingbird-sdk-go/service"
+	"github.com/LMgateways/iotserver-sdk-go/service"
 
 	"github.com/LMgateways/iotserver-mqtt-driver/constants"
 	"github.com/LMgateways/iotserver-mqtt-driver/internal/topic"

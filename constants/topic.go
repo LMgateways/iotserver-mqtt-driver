@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"encoding/hex"
 
-	"github.com/winc-link/hummingbird-sdk-go/service"
+	"github.com/LMgateways/iotserver-sdk-go/service"
 )
 
 // 驱动内部 MQTT 客户端凭据。

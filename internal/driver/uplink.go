@@ -3,7 +3,7 @@ package driver
 import (
 	"encoding/json"
 
-	"github.com/winc-link/hummingbird-sdk-go/model"
+	"github.com/LMgateways/iotserver-sdk-go/model"
 )
 
 // handleUplink 处理设备上行报文（由 internal/client 的 MQTT 订阅回调触发）。
