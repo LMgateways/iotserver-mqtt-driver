@@ -21,10 +21,10 @@ import (
 	"sync"
 	"time"
 
-	mqtt "github.com/eclipse/paho.mqtt.golang"
 	"github.com/LMgateways/iotserver-sdk-go/commons"
 	"github.com/LMgateways/iotserver-sdk-go/model"
 	"github.com/LMgateways/iotserver-sdk-go/service"
+	mqtt "github.com/eclipse/paho.mqtt.golang"
 
 	"github.com/LMgateways/iotserver-mqtt-driver/config"
 	"github.com/LMgateways/iotserver-mqtt-driver/internal/client"

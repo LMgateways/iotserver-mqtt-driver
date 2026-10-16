@@ -18,7 +18,7 @@ import (
 )
 
 var (
-	mu  sync.RWMutex
+	mu   sync.RWMutex
 	root = "iot"
 )
 
