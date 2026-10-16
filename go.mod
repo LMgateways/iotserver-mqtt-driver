@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/DrmagicE/gmqtt v0.5.0
-	github.com/LMgateways/iotserver-sdk-go v1.0.0
+	github.com/LMgateways/iotserver-sdk-go v1.0.1
 	github.com/eclipse/paho.mqtt.golang v1.4.3
 )
 
